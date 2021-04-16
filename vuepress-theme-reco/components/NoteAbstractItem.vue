@@ -98,7 +98,7 @@ export default {
     line-height: 46px;
     display: inline-block;
     a
-      color: var(--text-color);
+      color: var(--text-color) !important;
     .reco-lock
       font-size 1.28rem
       color $accentColor
